@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on an agile KanBan/Scrum board application ([Back-End](https://github.com/flamestro/AgileIsTheNewOrange) [Front-End](https://github.com/flamestro/agile-is-the-new-orange-ui))
 <!--
 **flamestro/flamestro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
