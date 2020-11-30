@@ -6,7 +6,7 @@
 
 - ⚡ I’m currently using technologies like Java (Spring, Spring Boot 2), TypeScript (React), MongoDB, Docker, Kubernetes, Jenkins, GitHub Actions
 
-- Additionally, I already completed projects that include the following technologies: Serverless, Distributed Tracing, Python, Scala, SQL, Thymeleaf
+Additionally, I already completed projects that include the following technologies: Serverless, Distributed Tracing, Python, Scala, SQL, Thymeleaf
 
 <!--
 **flamestro/flamestro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
