@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning about clean code and software architecture
 
-- ⚡ I’m currently using technologies like Java (Spring, Spring Boot 2), TypeScript (React), MongoDB, Docker, Kubernetes, Jenkins, GitHub Actions
+- ⚡ I’m currently using technologies like Java (Spring, Spring Boot 2), TypeScript (React), MongoDB, Docker, Kubernetes, Jenkins, GitHub Actions, Kibana, Grafana, Prometheus ...
 
 Additionally, I already completed projects that include the following technologies: Serverless, Distributed Tracing, Python, Scala, SQL, Thymeleaf
 
