@@ -15,6 +15,8 @@ My main learning journey:
   - clean testing
   - project management (theoretical)
 - 2022
+  - software architecture
+    - Domain Driven Design
   - it security
     - cryptography 
   - project management (theoretical)
