@@ -17,6 +17,7 @@ My main learning journey:
 - 2022
   - software architecture
     - Domain Driven Design
+    - Clean Architecture
   - it security
     - cryptography 
   - project management (theoretical)
