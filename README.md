@@ -20,5 +20,5 @@ My main learning journey:
     - Domain Driven Design
     - Clean Architecture
   - It Security
-    - cryptography
+    - Cryptography
   - Project Management
