@@ -1,23 +1,24 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my [portfolio website's ui](https://github.com/flamestro/PortfolioPage)
+- 🔭 I’m currently working on private projects.
 
-- 🌱 I’m currently learning about it security (currently cryptography in particular)
+- 🌱 I’m currently learning about Software Design
 
-- ⚡ I’m currently using technologies like Java (Spring, Spring Boot 2), TypeScript (React), MongoDB, Docker, Kubernetes, Jenkins, GitHub Actions, Kibana, Grafana, Prometheus ...
+- ⚡ I’m currently using technologies like Java (Spring, Spring Boot 2), TypeScript (React), Kotlin, MongoDB, Docker, Kubernetes, Jenkins, GitHub Actions, Kibana, Grafana, Prometheus ...
 
 Additionally, I already completed projects that include the following technologies: Serverless, Distributed Tracing, Python, Scala, SQL, Thymeleaf, and more
 
 My main learning journey:
 - 2021
-  - clean code
-  - clean software architecture
-  - clean testing
-  - project management (theoretical)
+  - Clean Code
+  - Clean Architecture
+  - Clean Testing
+  - Project Management
 - 2022
-  - software architecture
+  - Event Storming
+  - Software Design
     - Domain Driven Design
     - Clean Architecture
-  - it security
-    - cryptography 
-  - project management (theoretical)
+  - It Security
+    - cryptography
+  - Project Management
