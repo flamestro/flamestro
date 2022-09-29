@@ -21,4 +21,5 @@ My main learning journey:
     - Clean Architecture
   - It Security
     - Cryptography
+    - Web Security
   - Project Management
