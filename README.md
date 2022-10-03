@@ -8,7 +8,7 @@
 
 Additionally, I already completed projects that include the following technologies: Serverless, Distributed Tracing, Python, Scala, SQL, Thymeleaf, and more
 
-My main learning journey:
+My learning journey since I started noting it down in mid 2021:
 - 2021
   - Clean Code
   - Clean Architecture
