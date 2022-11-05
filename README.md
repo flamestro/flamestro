@@ -1,12 +1,11 @@
-### Hi there 👋
+## Welcome to My Profile
 
-- 🔭 I’m currently working on private projects.
+Who am I? I am an invested Software Engineer. I love all about IT/Tech and I love making it better. 
 
-- 🌱 I’m currently learning about Software Design
-
-- ⚡ I’m currently using technologies like Java (Spring, Spring Boot 2), TypeScript (React), Kotlin, MongoDB, Docker, Kubernetes, Jenkins, GitHub Actions, Kibana, Grafana, Prometheus ...
-
-Additionally, I already completed projects that include the following technologies: Serverless, Distributed Tracing, Python, Scala, SQL, Thymeleaf, and more
+### My Current Projects
+- 🔭 I am working on a remote collaboration tooling called gruups (www.gruups.de)
+- 🌱 I am learning more and more about Domain Driven Design and Event based Software Designs.
+- 📚 I am on a reading streak to complete 25 books in 2022. (19/25)
 
 My learning journey since I started noting it down in mid 2021:
 - 2021
