@@ -5,4 +5,4 @@ Who am I? I am an invested Software Engineer. I love all about IT/Tech and I lov
 ### My Current Projects
 - 🔭 I am working on a infrastructure as code project on top of docker compose.
 - 🌱 I am learning more and more about Domain Driven Design and Event based Software Designs.
-- 📚 I am on a reading streak to complete 35 books in 2023. (07/35)
+- 📚 I am on a reading streak to complete 35 books in 2023. (13/35)
