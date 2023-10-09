@@ -1,8 +1,12 @@
 ## Welcome to My Profile
+Hey, my name is Ahmet!
 
-Who am I? I am an invested Software Engineer. I love all about IT/Tech and I love making it better. 
+I solve problems by writing software, specializing in System Design and Fullstack Software Engineering, with a keen focus on cloud technologies. 
 
-### My Current Projects
-- 🔭 I am working on a infrastructure as code project on top of docker compose.
-- 🌱 I am learning more and more about Domain Driven Design and Event based Software Designs.
-- 📚 I am on a reading streak to complete 35 books in 2023. (13/35)
+I'm passionate about a range of other areas, including:
+
+- Cloud Computing
+- Web Technologies
+- User Experience
+- Blockchain Engineering
+- Project Management.
