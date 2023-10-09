@@ -1,5 +1,5 @@
 ## Welcome to My Profile
-Hey, my name is Ahmet!
+Hey, my name is Ahmet! 👋
 
 I solve problems by writing software, specializing in System Design and Fullstack Software Engineering, with a keen focus on cloud technologies. 
 
